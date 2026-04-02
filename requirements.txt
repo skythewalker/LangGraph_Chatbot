@@ -20,7 +20,7 @@ caio==0.9.25
 certifi==2026.1.4
 cffi==2.0.0
 charset-normalizer==3.4.4
-chromadb==0.5.5
+chromadb==1.5.2
 click==8.3.1
 colorama==0.4.6
 cryptography==46.0.5
@@ -74,7 +74,7 @@ jsonschema-specifications==2025.9.1
 keyring==25.7.0
 kubernetes==35.0.0
 langchain==1.2.10
-langchain-chroma==0.1.4
+langchain-chroma==1.1.0
 langchain-classic==1.0.1
 langchain-community==0.4.1
 langchain-core==1.2.14
@@ -101,7 +101,7 @@ multidict==6.7.1
 mypy_extensions==1.1.0
 narwhals==2.16.0
 networkx==3.6.1
-numpy==1.26.4
+numpy==2.4.2
 oauthlib==3.3.1
 ollama==0.6.1
 onnxruntime==1.24.3
