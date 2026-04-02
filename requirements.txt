@@ -74,7 +74,7 @@ jsonschema-specifications==2025.9.1
 keyring==25.7.0
 kubernetes==35.0.0
 langchain==1.2.10
-langchain-chroma==1.1.0
+langchain-chroma==0.1.4
 langchain-classic==1.0.1
 langchain-community==0.4.1
 langchain-core==1.2.14
